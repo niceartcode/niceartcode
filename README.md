@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 
 ### 📫 Kontakt
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/segi-b-a9911a2a8/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergelen-b-a9911a2a8/) 
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sauro777@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://github.com/niceartcode)
 
