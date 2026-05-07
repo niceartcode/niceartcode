@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 💻 Building things with React, Python & more
 
 
-### Guess Game_1-100
+### Guess Game 1-100
 
 
 [![Play Guess 1-100](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YotuYp6WR4IecfShlHutnNAeD1GTxUiZ?usp=sharing)
