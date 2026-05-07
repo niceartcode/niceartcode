@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Sergelen!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studying [Computer Science](https://www.codecademy.com/profiles/seegii) at the Würzburg<br/>
-💭 Currently learning about data fullstack html css db sql linux python.!<br/>
+💭 Currently learning about data fullstack html css db sql linux python.<br/>
 
 
 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 🌍 Mongolia → Deutschland | Full-Stack and Software Developer  
 🏙️ Bad Mergentheim, Baden-Württemberg  
-💻 Building things with React, Python & more
+💻 Building things with Fullstack, Python & more
 
 
 ### Guess Game 1-100
