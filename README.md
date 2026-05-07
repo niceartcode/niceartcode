@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 <h2>✒️ Recent Webs</h2>
 <details>
     <summary>Explore</summary>
-    <li><a target="_blank" href="https://niceartcode.github.io/codelernen/">Which is good for code learning — Feb 19, 2026</a></li><li><a target="_blank" href="https://niceartcode.github.io/segitour/">Some travel ideas — Dec 12, 2025</a></li><li><a target="_blank" href="https://blog.stanleylim.me/godaddy-redirect-hack">GoDaddy Redirect Hack — December 20, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/airpods-not-charging-on-windows">Airpods Not Charging on Windows — August 19, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/the-fastest-way-to-develop-and-deploy-your-next-project">⚡ The Fastest Way to Develop and Deploy Your Next Project — June 09, 2022</a></li>
+    <li><a target="_blank" href="https://niceartcode.github.io/codelernen/">Which is good for code learning — Feb 19, 2026</a></li><li><a target="_blank" href="https://niceartcode.github.io/segitour/">Some travel ideas — Dec 12, 2025</a></li><li><a target="_blank" href="https://niceartcode.github.io/portfolio/">Portfolio web example — Apr 20, 2026</a></li><li><a target="_blank" href="https://niceartcode.github.io/travel2/">⚡ The Next Travel web example — Apr 09, 2026</a></li>
 </details>
 <p><a target="_blank" href="https://github.com/niceartcode">Read More</a></p>
 <h2>🚀 Some Tools I Use</h2>
